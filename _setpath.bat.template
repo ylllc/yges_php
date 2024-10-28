@@ -1,0 +1,1 @@
+rem path [YourOwnPHPDirectory];[YourOpenJDKBinDirectory];[YourGraphVizDirectory];[YourDoxygenDirectory];%PATH%

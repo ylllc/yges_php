@@ -13,7 +13,12 @@ But we'll not help you:-P
 
 ## Documentation
 
-not yet.
+Generating by [Doxygen](https://www.doxygen.nl/)  
+install it.
+
+optional,
+- [GraphViz](https://graphviz.org/)
+  - [OpenJDK](https://openjdk.org/) required
 
 ## Testing
 
